@@ -1,0 +1,10 @@
+1.This is Hr analitics report.
+2.The total number of employees are 1.48k.
+3.Male employee are 889 and famale emplyee are 591 here you can see male emplyees are greater than female.
+4.Three department are in this report.
+5.human resoures,R&D and Sales.
+6.R&D department have most number of employees than other department.
+7.With a score of 607 life science stream background Employees are most.
+8.Higest number of emplyees are comming from 26 to 35 age group that's whay indian youth is leading india towards international growth.
+9.Youth contribution to gdp higher beacuse indian youth are so productive but unemployment effect economy so badly this is a reason for Lower economic growth .
+10.Female are played very important role in employment.
